@@ -1,0 +1,11 @@
+﻿Stay Safe Online – Prevention Checklist
+1) Always check the sender’s email address before clicking on any link.
+2)Do not share OTPs, passwords, or bank details with anyone.
+3)Avoid clicking on suspicious or unknown links.
+4)Use strong and unique passwords for different accounts.
+5)Enable two-factor authentication (2FA) wherever possible.
+6)Regularly update your apps and devices for security patches.
+7)Verify UPI payment requests before approving them.
+8)Never scan unknown QR codes for receiving money (this is a common scam).
+9)Use only official apps and websites for banking and payments.
+10)Report cyber fraud immediately at cybercrime.gov.in or call 1930.
